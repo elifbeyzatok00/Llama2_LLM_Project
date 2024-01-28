@@ -1,6 +1,6 @@
 # Explainable AI Project
- * [Click Here To Read English Documantation](EN)
- * [Türkçe Dökümanı Okuman İçin Buraya Tıklayınız](TR)
+ * [Click Here To Read English Documantation](#EN)
+ * [Türkçe Dökümanı Okuman İçin Buraya Tıklayınız](#TR)
 
 # EN
 
