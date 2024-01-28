@@ -65,6 +65,7 @@ notebook_login()
 ## Eğitilmiş dil modeli eğitimi / özelleştirilmesi
 ### LLM Modellerde  Fine Tuning Yapmak (Büyük Dil Modellerinde İnce Ayar Yapmak)
 Önceden eğitilmiş LLM modelleri etkileyici dil yeteneklerine sahiptir, ancak belirli görevler veya endüstriler için gereken spesifikliğe gerçekten sahip değildirler. Bu, modellerin ince ayarlanmasıyla başarılabilir. Büyük bir dil modeline ince ayar yapma süreci, genellikle önceden eğitilmiş bir modelin alınmasını ve onu belirli bir göreve, projeye, sektöre, alana veya uygulamaya ilişkin daha odaklanmış bir veri kümesi üzerinde eğitmeyi içerir.
+
  ![image](https://github.com/elifbeyzatok00/Llama2_LLM_Project/assets/102792446/affd0515-8da6-4531-9f00-d66b9c96dfc6)
  
 Şekil-4 Llama-2-chat modelinin çalışma şeklini gösteren görsel
