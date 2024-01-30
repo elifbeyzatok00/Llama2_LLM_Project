@@ -13,7 +13,7 @@
 > Pinecone database was used to both store the chunks of data from added PDFs as vectors and to keep track of the source of these chunks (which page of which PDF file they were taken from) to specialize the pre-trained language model.
 > The **Langchain** library was used to provide more comprehensive answers to questions asked to the pre-trained language model and to show which PDF files the answers (chunks) were derived from.
 > 
->  💎 **Google Colab, Hugging Face, pre-trained NLP model (Llama2), Pinecone DB, Langchain**
+> 💎 **Google Colab, Hugging Face, pre-trained NLP model (Llama2), Pinecone DB, Langchain, Transformers, Tokenizers**
 
 ### Essential Readings for Understanding the Project
 ## LLM Models
@@ -214,8 +214,8 @@ Internet Sources:
 > Kullanılan hazır dil işleme modelinin (**Llama2**) çekilmesi için Hugging Face kütüphanesinin sunduğu bazı API’ler kullanıldı. 
 > Hazır dil modelini uzmanlaştırmak için eklenen pdflerdeki verileri chunklara ayırıp hem bu chunkları vector olarak tutması hem de bu chunkların kaynağını (hangi pdf dosyasının kaçıncı sayfasından alındığını) tutması için **Pinecone** veri tabanı kullanıldı.
 > Hazır dil modeline sorulan sorulara daha kapsamlı cevap vermesini sağlamak ve sorulan sorulara verdiği cevapları (chunkları) hangi pdf dosyasından aldığını göstermek için **Langchain** kütüphanesi kullanıldı.
-> 
->  💎 **Google Colab, Hugging Face, pre-trained NLP model (Llama2), Pinecone DB, Langchain**
+>
+> 💎 **Google Colab, Hugging Face, pre-trained NLP model (Llama2), Pinecone DB, Langchain, Transformers, Tokenizers**
 
 ### Projenin Anlaşılması İçin Okunması Gerekenler
 ## LLM modeller
