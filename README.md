@@ -5,7 +5,7 @@
 # EN
 
 ## Purpose of the Project
-> The purpose of the experiment is for the pre-trained model to respond to questions about the targeted topic (Explainable AI) based on the data in the provided PDFs during training. Additionally, it should show the sources from which it derived the answer.
+> The purpose of the project is for the pre-trained model to respond to questions about the targeted topic (Explainable AI) based on the data in the provided PDFs during training. Additionally, it should show the sources from which it derived the answer.
 
 ## Technologies Used
 > The operations applied to the model can be performed on devices requiring high RAM and GPU. For this purpose, the SaaS platform **Google Colab** was used. Some purchases were made to enable GPU, CPU, and high RAM usage.
