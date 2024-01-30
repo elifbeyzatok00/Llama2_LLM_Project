@@ -4,7 +4,7 @@
 
 # EN
 
-## Purpose of the Experiment
+## Purpose of the Project
 > The purpose of the experiment is for the pre-trained model to respond to questions about the targeted topic (Explainable AI) based on the data in the provided PDFs during training. Additionally, it should show the sources from which it derived the answer.
 
 ## Technologies Used
@@ -204,7 +204,7 @@ Internet Sources:
 
 # TR
 
-## Deneyin Amacı
+## Projenin Amacı
 > Hazır modelin, hedeflenen konu (Explainable AI)  hakkındaki sorulan sorulara eğitilirken verilen pdflerdeki verilere dayanarak cevap vermesi. Aynı zamanda verdiği cevabı hangi kaynaklara dayanarak verdiğini göstermesi.
 
 ## Kullanılan Teknolojiler
